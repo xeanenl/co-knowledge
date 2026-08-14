@@ -22,3 +22,6 @@ Kho kiến thức kỹ thuật dành cho Sales, Technical Service và khách hà
 ## Tài liệu sản phẩm
 
 - products/cam-nang.md
+## Kiểm chứng hệ thống
+
+- validation/kiem-chung.md
