@@ -1,67 +1,24 @@
 # Thư Viện Kỹ Thuật Nuôi Tôm
 
-## Mục đích
+Kho kiến thức kỹ thuật dành cho Sales, Technical Service và khách hàng.
 
-Kho kiến thức kỹ thuật dành cho:
-- Sales
-- Technical Service
-- Khách hàng
-- Đại lý
+## Chỉ tiêu nước
 
----
-
-## Chỉ tiêu môi trường nước
-
-- [Độ kiềm] ph.html
-- [NH
-- no2.html
-- do-man.html
-- [Oxy hòatan.html
-
----
+- environment/ph.md
+- environment/nh3.md
+- [NO2] environment/do-kiem.md
 
 ## Tảo
 
-- tao-do.html
-- [Tảolam.html
+- [Tảo đỏ](algae/tao[Tảo lam](algae/tao-lam.md
+- disease/ems.md
+- [Đsease/dom-trang.md
 
----
+## Triệu chứng
 
-## Sự cố môi trường
-
-- mua-lon.html
-- [uoc-duc.html
-
----
-
-## Triệu chứng trên tôm
-
-- tom-giam-an.html
-- [Tômnoi-dau.html
-- [Tôm rau.html
-
----
-
-## Bệnh trên tôm
-
-- [han-trang.html
-- [Bệnh gantuy.html
-- [Bệnh đốm trắng](domS - Hội chứng chết sớm](emsuôi
-
-- [i-sinh.html
-
----
-
-## Tài liệu đào tạo
-
-- [Kiểm chứng Training
+- symptom/tom-giam-an.md
+- [Tôm nổ/tom-noi-dau.md
 
 ## Tài liệu sản phẩm
 
-- [Cẩm nangSAN-PHAM-GROBEST-T11.pdf
-
----
-
-## Tài liệu thương hiệu
-
-- brand-guideline.md
+- products/cam-nang.md
